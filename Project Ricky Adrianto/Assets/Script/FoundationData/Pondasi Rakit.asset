@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d2bfe3a8c3d9a43bb979480b085103, type: 3}
+  m_Name: Pondasi Rakit
+  m_EditorClassIdentifier: 
+  foundationImage: {fileID: 0}
+  foundationName: Raft Foundation
+  foundationDescription: Raft foundation, also known as mat foundation, is a type
+    of foundation used to support buildings located on soft soil or when the arrangement
+    of columns is so close in all directions that using spread footing would cause
+    their sides to overlap. The function of a raft foundation is to evenly distribute
+    the building load across the entire foundation area. This action aims to prevent
+    excessive pressure on the soil, especially in areas with low or uneven bearing
+    capacity. Examples of the use of raft foundations can be found in buildings where
+    the soil underneath lacks adequate bearing capacity or when there is a significant
+    variation in soil bearing capacity across the entire building area. Tall structures,
+    such as skyscrapers, or buildings in regions with weak soil, may employ raft
+    foundations.
+  soundDescription: {fileID: 8300000, guid: 73a9d18db3044304db7c51f1d3a45208, type: 3}
+  namaPondasi: Pondasi Rakit
+  deskripsiPondasi: Pondasi rakit (raft foundation atau mat foundation) adalah pondasi
+    yang digunakan untuk mendukung bangunan yang terletak pada tanah lunak, atau
+    digunakan bila susunan kolom-kolom jaraknya sedemikian dekat di semua arahnya,
+    sehingga bila dipakai pondasi telapak sisi-sisinya akan berimpit satu sama lain.
+    Fungsi dari pondasi rakit adalah menyebarkan beban bangunan secara merata ke
+    seluruh area pondasi. Tindakan ini bertujuan untuk mencegah terjadinya tekanan
+    berlebihan pada tanah, terutama pada tanah yang memiliki daya dukung yang rendah
+    atau tidak seragam. Contoh penggunaan pondasi rakit dapat ditemukan pada bangunan
+    dengan tanah di bawahnya yang tidak memiliki daya dukung yang memadai atau ketika
+    terdapat variasi yang signifikan dalam daya dukung tanah di bawah seluruh area
+    bangunan. Bangunan tinggi, seperti gedung pencakar langit, atau bangunan di wilayah
+    dengan tanah lemah dapat menggunakan pondasi rakit.
+  suaraPenjelasan: {fileID: 8300000, guid: 6b4434b5aba7c0e458584cd87e6e99b7, type: 3}
+  foundationPrefab: {fileID: 7035582994876809440, guid: c11c1071dce19fc4b85a38766cc12075,
+    type: 3}

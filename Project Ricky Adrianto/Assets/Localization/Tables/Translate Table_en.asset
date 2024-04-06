@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Translate Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4eed2b358618743488b50f1a4e394ad8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6185603547136
+    m_Localized: Choice Lenguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13018925621248
+    m_Localized: 'Learning Media: Types of Building Foundations Using Augmented Reality'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16186669522944
+    m_Localized: Types of building foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16396258893824
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16512910876672
+    m_Localized: Intruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16612122943488
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18525899972608
+    m_Localized: Learning about Types of Building Foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18763649900544
+    m_Localized: According to Christady (2014), a foundation is the lowest part of
+      a building that transfers the building's load to the soil or rock beneath it.
+      According to Yuningtyastuti (2011), a foundation is the lower structure of
+      a building that directly interacts with the soil, serving as a component of
+      construction that functions to resist the forces exerted upon it. The foundation
+      is constructed as a strong fundamental unit beneath the overall structure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18967300136960
+    m_Localized: Shallow Foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19237623029760
+    m_Localized: Deep Foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21456409845760
+    m_Localized: Shallow Foundation Types
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21703253024768
+    m_Localized: Spread foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22001468039168
+    m_Localized: continuous foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22154249756672
+    m_Localized: Raft Foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23347986423808
+    m_Localized: pier foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23280051281920
+    m_Localized: Types of Deep Foundations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23307876294656
+    m_Localized: Pile Foundation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178607082811392
+    m_Localized: 'The foundation is a crucial structural component of a building,
+      as its function is to support the structure above it. Therefore, the construction
+      process must meet the following primary requirements:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178722593943552
+    m_Localized: '1. Sufficiently strong to withstand shear forces resulting from
+      vertical loads.
+
+      2. Capable of adapting to the movement of unstable soil
+      (soil settlement) and resistant to the effects of weather changes.
+
+      3.
+      Resistant to the effects of chemical substances.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22178755804442624
+    m_Localized: The foundation serves to support the entire load of a building and
+      transmit this load into the soil below. A foundation system must ensure the
+      ability to support the loads of the structure above it, including external
+      forces such as wind and seismic forces. Therefore, the foundation must be strong,
+      stable, and secure to prevent settlement or failure, as rectifying foundation
+      issues can be challenging.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22184055110414336
+    m_Localized: 'Shallow foundation is defined as a foundation that directly supports
+      its load, such as: spread foundation, strip foundation, and raft foundation.
+      The following is an explanation of the types of shallow foundations.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22185873714491392
+    m_Localized: 'Deep foundation is defined as a foundation that transfers the building
+      load to hard soil or rock located relatively deep below the surface, such as
+      well foundation and pile foundation. The following is an explanation of the
+      types of deep foundations:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
