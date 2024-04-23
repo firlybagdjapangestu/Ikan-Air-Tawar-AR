@@ -8,7 +8,7 @@ using EnhanceTouch = UnityEngine.InputSystem.EnhancedTouch;
 [RequireComponent(typeof(ARRaycastManager), typeof(ARPlaneManager))]
 public class RaycastController : MonoBehaviour
 {
-    public FoundationData[] foundationData;
+    public FishData[] foundationData;
 
     private ARRaycastManager arRaycastManager;
     private ARPlaneManager arPlaneManager;
@@ -45,8 +45,8 @@ public class RaycastController : MonoBehaviour
             foreach (ARRaycastHit hit in hits)
             {
                 Pose pose = hit.pose;
-                Quaternion rotationFromExistingObject = foundationData[0].foundationPrefab.transform.rotation;
-                GameObject obj = Instantiate(foundationData[foundationChoice].foundationPrefab, pose.position, pose.rotation);
+                Quaternion rotationFromExistingObject = foundationData[0].fishPrefabs.transform.rotation;
+                GameObject obj = Instantiate(foundationData[foundationChoice].fishPrefabs, pose.position, pose.rotation);
                 objectInstantiated = true; // Set the flag to true after instantiation
             }
         }

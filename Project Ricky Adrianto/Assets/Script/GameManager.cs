@@ -54,15 +54,21 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadSceneAsync(sceneIndex);
     }
 
-    public void SelectFoundation(int choice) // fungsi untuk menyimpan data foundasi apa yang akan di spawn
+    public void SelectFish(int choice) // fungsi untuk menyimpan data foundasi apa yang akan di spawn
     {
-        PlayerPrefs.SetInt("ChoiceFoundation", choice);
+        PlayerPrefs.SetInt("SelectFish", choice);
     }
     public void ChangeLocale(int _localeId)
     {
         firstTimeInstall();
         PlayerPrefs.SetInt("LocaleKey", _localeId);
         StartCoroutine(SetLocale(_localeId));
+        
+    }
+
+    public void RefreshApps()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     private void firstTimeInstall() // fungsi untk pengaturan bahasa pertama kali

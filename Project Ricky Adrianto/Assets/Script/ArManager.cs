@@ -6,10 +6,11 @@ using TMPro;
 
 public class ArManager : MonoBehaviour
 {
-    [SerializeField] private FoundationData[] Foundations;
+    [SerializeField] private FishData[] fishData;
     [SerializeField] private TextMeshProUGUI titleText;
     [SerializeField] private TextMeshProUGUI descriptionText;
     [SerializeField] private AudioSource audioSource;
+    [SerializeField] private GameObject descriptionImage;
     private AudioClip audioClip;
     private int choiceFoundation;
     public int lenguageID;
@@ -33,16 +34,16 @@ public class ArManager : MonoBehaviour
 
     void DisplayDescriptionFoundationID() // fungsi menampilkan bahasa indonesia
     {
-        titleText.text = Foundations[choiceFoundation].namaPondasi;
-        descriptionText.text = Foundations[choiceFoundation].deskripsiPondasi;
-        audioClip = Foundations[choiceFoundation].suaraPenjelasan;
+        titleText.text = fishData[choiceFoundation].namaIkan;
+        descriptionText.text = fishData[choiceFoundation].deskripsiIkan;
+        audioClip = fishData[choiceFoundation].suaraPenjelasanIkan;
     }
 
     void DisplayDescriptionFoundationEN() // fungsi menampilkan bahasa inggirs
     {
-        titleText.text = Foundations[choiceFoundation].foundationName;
-        descriptionText.text = Foundations[choiceFoundation].foundationDescription;
-        audioClip = Foundations[choiceFoundation].soundDescription;
+        titleText.text = fishData[choiceFoundation].fishName;
+        descriptionText.text = fishData[choiceFoundation].fishDescription;
+        audioClip = fishData[choiceFoundation].fishSoundDescription;
     }
 
     public void ToggleMusic() // fungsi untuk mengeluarkan suara
@@ -57,5 +58,16 @@ public class ArManager : MonoBehaviour
         }
 
         isMusicPlaying = !isMusicPlaying; // Mengubah status pemutaran musik
+    }
+    public void ToggleDescription() // fungsi untuk menampilkan deskripsi
+    {
+        if (descriptionImage.activeSelf) // Periksa apakah descriptionImage sedang aktif
+        {
+            descriptionImage.SetActive(false); // Jika aktif, nonaktifkan
+        }
+        else
+        {
+            descriptionImage.SetActive(true); // Jika tidak aktif, aktifkan
+        }
     }
 }
