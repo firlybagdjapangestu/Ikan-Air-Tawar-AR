@@ -18,12 +18,13 @@ MonoBehaviour:
     that originated from Japan. They are renowned for their vibrant colors, distinctive
     patterns, and graceful swimming movements. Koi fish have been selectively bred
     for centuries, resulting in a wide variety of color combinations and patterns.
-  fishSoundDescription: {fileID: 0}
+  fishSoundDescription: {fileID: 8300000, guid: 9400c31e4e3109848a6dff74bef82f6e,
+    type: 3}
   namaIkan: Ikan Koi
   deskripsiIkan: Ikan koi, juga dikenal sebagai Nishikigoi, adalah jenis ikan mas
     yang berasal dari Jepang. Mereka terkenal dengan warna-warni yang mencolok, pola
     yang khas, dan gerakan renang yang anggun. Ikan koi telah disilangkan secara
     selektif selama berabad-abad, menghasilkan beragam kombinasi warna dan pola.
-  suaraPenjelasanIkan: {fileID: 0}
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 10abc0454c53b48419d427b3eb3e9de2, type: 3}
   fishPrefabs: {fileID: 6959288341750776879, guid: 309c9a9fa31e2ed4aa5d38e311d0cd4c,
     type: 3}

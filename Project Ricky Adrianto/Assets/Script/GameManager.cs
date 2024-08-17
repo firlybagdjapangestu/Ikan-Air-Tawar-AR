@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager _instance;
     public static GameManager Instance { get { return _instance; } }
-    public DateTime expiredApp = new DateTime(2024, 4, 30); // Atur nilai default di Inspector
+    
     public int howMuchButtonClick;
     public int limitButtonClick;
     public GameObject lockPanel;
@@ -83,6 +83,9 @@ public class GameManager : MonoBehaviour
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[_localeId];
     }
 
+    #region
+    public DateTime expiredApp = new DateTime(2024, 8, 30);
+    
     private IEnumerator GetNetworkTime()
     {
         UdpClient client = new UdpClient(ntpServer, 123);
@@ -125,4 +128,5 @@ public class GameManager : MonoBehaviour
             Application.Quit();
 #endif
     }
+    #endregion
 }

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb1425d8bb8274eb6d3e8678868f7c, type: 3}
+  m_Name: Arowana Fish
+  m_EditorClassIdentifier: 
+  fishImage: {fileID: 21300000, guid: 452a9a3b14388b44a9f7b33b909c8d20, type: 3}
+  fishName: Arowana Fish
+  fishDescription: The Arowana, known as the "Dragon Fish," is a famous and expensive
+    ornamental fish. With large, shiny scales, a long body, and graceful movements,
+    it's considered a symbol of good luck in some cultures. Native to freshwater
+    in Southeast Asia, South America, and Australia, the Arowana is also known for
+    its ability to leap high to catch prey.
+  fishSoundDescription: {fileID: 8300000, guid: 4bdce9240bffe1043b94a4c79ae3ef53,
+    type: 3}
+  namaIkan: Ikan Arwana
+  deskripsiIkan: Ikan arwana, dikenal sebagai "Dragon Fish," adalah ikan hias yang
+    terkenal dan mahal. Dengan sisik besar berkilau, tubuh panjang, dan gerakan anggun,
+    arwana dianggap membawa keberuntungan di beberapa budaya. Ikan ini berasal dari
+    perairan tawar di Asia Tenggara, Amerika Selatan, dan Australia, serta dikenal
+    karena kemampuannya melompat tinggi untuk menangkap mangsa.
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 00e2b5d7f52a4014eb8bfe686a7924eb, type: 3}
+  fishPrefabs: {fileID: 1300109334100700688, guid: 39842e35f6c5d9b4f9140e0f6a7bfde2,
+    type: 3}

@@ -19,7 +19,8 @@ MonoBehaviour:
     appearance with long, slender bodies and typically have smooth, scaleless skin.
     They are known for their prominent barbels or whiskers around their mouth, which
     they use to locate food in murky waters.
-  fishSoundDescription: {fileID: 0}
+  fishSoundDescription: {fileID: 8300000, guid: 2983cde6523b48348bdb6ef41a5ccdb4,
+    type: 3}
   namaIkan: Ikan Lele
   deskripsiIkan: Ikan lele adalah ikan air tawar yang umumnya ditemukan di sungai,
     danau, dan kolam. Mereka termasuk dalam keluarga Siluridae. Ikan lele memiliki
@@ -27,6 +28,6 @@ MonoBehaviour:
     biasanya halus dan tidak bersisik. Mereka dikenal dengan adanya sungut atau "whiskers"
     yang menonjol di sekitar mulutnya, yang digunakan untuk mencari makanan di perairan
     yang keruh.
-  suaraPenjelasanIkan: {fileID: 0}
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 7489d665978f41c45be9e5b02bb68b97, type: 3}
   fishPrefabs: {fileID: 1201284444574427942, guid: 88bc9bfe37826734398b3d56da3ee8dc,
     type: 3}

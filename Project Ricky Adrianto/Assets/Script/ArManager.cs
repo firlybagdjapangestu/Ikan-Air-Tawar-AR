@@ -20,7 +20,7 @@ public class ArManager : MonoBehaviour
     void Start()
     {
         // mengambil penyimpanan data
-        choiceFoundation = PlayerPrefs.GetInt("ChoiceFoundation"); 
+        choiceFoundation = PlayerPrefs.GetInt("SelectFish"); 
         lenguageID = PlayerPrefs.GetInt("LocaleKey");
         if (lenguageID == 0)
         {

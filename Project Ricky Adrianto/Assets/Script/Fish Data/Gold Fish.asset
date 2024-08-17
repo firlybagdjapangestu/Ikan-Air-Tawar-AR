@@ -19,13 +19,14 @@ MonoBehaviour:
     Goldfish have a round body and long fins. Their wide range of colors makes them
     favorites among fish enthusiasts. They are also known for their strong resilience
     to various environmental conditions.
-  fishSoundDescription: {fileID: 0}
+  fishSoundDescription: {fileID: 8300000, guid: a093c75360b8fc54d8241abeaa60e418,
+    type: 3}
   namaIkan: Ikan Emas
   deskripsiIkan: Ikan mas adalah salah satu ikan hias paling populer di dunia. Mereka
     berasal dari Asia Timur dan telah dipelihara sejak ribuan tahun yang lalu. Ikan
     mas memiliki tubuh yang bulat dan sirip yang panjang. Variasi warna yang banyak
     membuatnya menjadi favorit bagi para penggemar ikan hias. Mereka juga dikenal
     karena memiliki daya tahan yang kuat terhadap berbagai kondisi lingkungan.
-  suaraPenjelasanIkan: {fileID: 0}
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 62387d47e5faeb34291c3b2af4b804a8, type: 3}
   fishPrefabs: {fileID: 7051864831347453866, guid: 512b171613651a547b0fb6090fcfe164,
     type: 3}

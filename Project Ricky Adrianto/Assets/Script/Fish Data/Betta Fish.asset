@@ -17,12 +17,13 @@ MonoBehaviour:
   fishDescription: Betta fish are known for their vibrant colors, flowing fins, and
     unique personalities. They originate from Southeast Asia, particularly Thailand,
     where they inhabit shallow waters like rice paddies, ponds, and slow-moving streams.
-  fishSoundDescription: {fileID: 0}
+  fishSoundDescription: {fileID: 8300000, guid: 17c8422d54865174eb85c822f17ba7e1,
+    type: 3}
   namaIkan: Ikan Cupang
   deskripsiIkan: Ikan cupang dikenal karena warna-warni yang mencolok, sirip yang
     indah, dan kepribadian yang unik. Mereka berasal dari Asia Tenggara, khususnya
     Thailand, di mana mereka mendiami perairan dangkal seperti sawah, kolam, dan
     sungai-sungai dengan aliran air yang lambat.
-  suaraPenjelasanIkan: {fileID: 0}
+  suaraPenjelasanIkan: {fileID: 8300000, guid: bedce0327b5bf8d4f903f611035f2dca, type: 3}
   fishPrefabs: {fileID: 1994338524555146052, guid: 0d4f17def3d98e845bd58aca8d96f0ea,
     type: 3}
