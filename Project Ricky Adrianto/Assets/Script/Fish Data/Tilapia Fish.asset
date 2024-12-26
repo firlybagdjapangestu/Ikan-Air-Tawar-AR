@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb1425d8bb8274eb6d3e8678868f7c, type: 3}
+  m_Name: Tilapia Fish
+  m_EditorClassIdentifier: 
+  fishImage: {fileID: 21300000, guid: 77b85f7a1bd71124987ff63f6995636b, type: 3}
+  fishName: Tilapia Fish
+  fishDescription: Tilapia is a freshwater fish widely cultivated for its fast growth
+    and adaptability. Originally from Africa, it is now popular globally, especially
+    for its soft, protein-rich meat. Tilapia is known as an economical fish with
+    a neutral taste, making it an important commodity in the fisheries market.
+  fishSoundDescription: {fileID: 8300000, guid: e84ce6b4943f4874d95688c52cc075a6,
+    type: 3}
+  namaIkan: Ikan Nila
+  deskripsiIkan: ikan nila adalah ikan air tawar yang banyak dibudidayakan karena
+    pertumbuhannya yang cepat dan mudah beradaptasi. Berasal dari Afrika, kini ikan
+    ini populer secara global, terutama karena dagingnya yang lembut dan kaya protein.
+    Tilapia dikenal sebagai ikan ekonomis dengan rasa netral, menjadikannya komoditas
+    penting di pasar perikanan.
+  suaraPenjelasanIkan: {fileID: 8300000, guid: aee7ace5adb367e4b88826187787e60c, type: 3}
+  fishPrefabs: {fileID: 8624414974634773883, guid: 27de98a7650067b418c3faaf8e53989e,
+    type: 3}

@@ -1822,7 +1822,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 503b4e9843f749c4898b483534ef8997, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fishData: {fileID: 11400000, guid: 43f67804c419c8e40b6d96228ec14e62, type: 2}
+  fishData: {fileID: 11400000, guid: 0290864fa9f108a4b8f7cfd4ac023b18, type: 2}
   fishName: {fileID: 1958847453}
   fishDescription: {fileID: 135448258}
   fishImage: {fileID: 1359280931}
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 503b4e9843f749c4898b483534ef8997, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fishData: {fileID: 11400000, guid: 54901199156df1c4e87d0060247fb8b2, type: 2}
+  fishData: {fileID: 11400000, guid: f8c8c95401edcb24bbe45f9729923aab, type: 2}
   fishName: {fileID: 1199771163}
   fishDescription: {fileID: 705201415}
   fishImage: {fileID: 92166884}
@@ -3194,7 +3194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 503b4e9843f749c4898b483534ef8997, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fishData: {fileID: 11400000, guid: 62d6eabaf6efec341b41baafc419c147, type: 2}
+  fishData: {fileID: 11400000, guid: e44c21709786a2a43b302d33f6ac5ddb, type: 2}
   fishName: {fileID: 835125984}
   fishDescription: {fileID: 1249044736}
   fishImage: {fileID: 222472325}
@@ -6062,7 +6062,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.17534246, y: 1}
+  m_AnchorMax: {x: 0.17534247, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -9150,7 +9150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 503b4e9843f749c4898b483534ef8997, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fishData: {fileID: 11400000, guid: 469de90ce51d4d94bba986741b002943, type: 2}
+  fishData: {fileID: 11400000, guid: 398f5dac12c73684499a1775df6d368a, type: 2}
   fishName: {fileID: 1725074370}
   fishDescription: {fileID: 705148410}
   fishImage: {fileID: 50022657}

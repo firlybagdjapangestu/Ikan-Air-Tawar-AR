@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb1425d8bb8274eb6d3e8678868f7c, type: 3}
+  m_Name: Snakehead Fish
+  m_EditorClassIdentifier: 
+  fishImage: {fileID: 21300000, guid: 77b85f7a1bd71124987ff63f6995636b, type: 3}
+  fishName: Snakehead Fish
+  fishDescription: The Snakehead is a freshwater predator with a cylindrical body
+    and a snake-like head, commonly found in Southeast Asia. It is adaptable to extreme
+    conditions and can survive on land due to its additional breathing organs. Known
+    for its healing properties due to high albumin content, the snakehead is also
+    popular as a high-protein ingredient in cooking.
+  fishSoundDescription: {fileID: 8300000, guid: 41bd539fa587e5641b345a4edc878abc,
+    type: 3}
+  namaIkan: Ikan Gabus
+  deskripsiIkan: Ikan Gabus adalah ikan air tawar predator dengan tubuh silindris
+    dan kepala mirip ular, banyak ditemukan di Asia Tenggara. Tahan terhadap kondisi
+    ekstrem, ikan ini bisa bertahan di daratan berkat organ pernapasan tambahan.
+    Dikenal berkhasiat untuk penyembuhan luka karena kandungan albuminnya, ikan gabus
+    juga populer sebagai sumber protein tinggi dalam masakan.
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 60ea9ab5de387c54b8b81d743b71228d, type: 3}
+  fishPrefabs: {fileID: 2551682427707202883, guid: 745c6a172c13c4845b0b3e858aa5e99b,
+    type: 3}

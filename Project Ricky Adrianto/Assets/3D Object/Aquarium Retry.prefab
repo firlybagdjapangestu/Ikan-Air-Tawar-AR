@@ -273,11 +273,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fishData:
-  - {fileID: 11400000, guid: 62d6eabaf6efec341b41baafc419c147, type: 2}
-  - {fileID: 11400000, guid: 54901199156df1c4e87d0060247fb8b2, type: 2}
+  - {fileID: 11400000, guid: e44c21709786a2a43b302d33f6ac5ddb, type: 2}
+  - {fileID: 11400000, guid: f8c8c95401edcb24bbe45f9729923aab, type: 2}
   - {fileID: 11400000, guid: f5adb34fa765c9540a95a29c107a8ef2, type: 2}
-  - {fileID: 11400000, guid: 469de90ce51d4d94bba986741b002943, type: 2}
-  - {fileID: 11400000, guid: 43f67804c419c8e40b6d96228ec14e62, type: 2}
+  - {fileID: 11400000, guid: 398f5dac12c73684499a1775df6d368a, type: 2}
+  - {fileID: 11400000, guid: 0290864fa9f108a4b8f7cfd4ac023b18, type: 2}
   speed: 0.1
   maxX: {fileID: 8525917345951343734}
   minX: {fileID: 3511718042337484479}

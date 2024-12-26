@@ -84,7 +84,7 @@ public class GameManager : MonoBehaviour
     }
 
     #region
-    public DateTime expiredApp = new DateTime(2024, 10, 30);
+    public DateTime expiredApp = new DateTime(2024, 12, 30);
     
     private IEnumerator GetNetworkTime()
     {

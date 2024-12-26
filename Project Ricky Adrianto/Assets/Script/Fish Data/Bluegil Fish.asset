@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb1425d8bb8274eb6d3e8678868f7c, type: 3}
+  m_Name: Bluegil Fish
+  m_EditorClassIdentifier: 
+  fishImage: {fileID: 21300000, guid: fc3e50d074e352c41b4f6825fb5a9ffe, type: 3}
+  fishName: Bluegil Fish
+  fishDescription: Bluegill is a popular freshwater fish in Indonesia and is widely
+    cultivated due to its adaptability and rapid growth. First discovered in East
+    Java, this fish has soft, protein-rich flesh. Bluegill is known as an economical
+    fish that is easy to care for, making it one of the top choices in local aquaculture.
+  fishSoundDescription: {fileID: 8300000, guid: d202390f4a8f56c4fa1c1371022814e9,
+    type: 3}
+  namaIkan: Ikan Mujair
+  deskripsiIkan: Ikan mujair adalah ikan air tawar yang populer di Indonesia dan
+    banyak dibudidayakan karena kemampuannya beradaptasi dengan baik dan pertumbuhannya
+    yang cepat. Ditemukan pertama kali di Jawa Timur, ikan ini memiliki daging yang
+    lembut dan kaya protein. Mujair dikenal sebagai ikan ekonomis dan mudah dirawat,
+    menjadikannya salah satu pilihan utama dalam budidaya perikanan lokal.
+  suaraPenjelasanIkan: {fileID: 8300000, guid: 9591258a09cba9c4ba931faca9393f0f, type: 3}
+  fishPrefabs: {fileID: 9025859919294983024, guid: ea147d7a4cf70594b864183cc3d571c0,
+    type: 3}
